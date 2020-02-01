@@ -4,7 +4,8 @@
 title: Peter's legacy notes
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: “Happiness is when what you think, what you say, and what you do are in harmony.” -Mahatma Gandhi
+
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -68,13 +69,14 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "p.vangulick@gmail.com"
+  facebook: Arxnl
+  github: pvangulick
+  twitter: Arx_nl
+  linkedin: peter-van-gulick
+#
 #  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
+   xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
@@ -93,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "PvanGulick.GitHub.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -151,12 +153,12 @@ excerpt_length: 50
 title-separator: "-"
 
 # Ruby Date Format
-date_format: "%B %-d, %Y"
+date_format: "%d %B %Y"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Amsterdam"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
