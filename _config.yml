@@ -69,14 +69,14 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "p.vangulick@gmail.com"
+  email: p.vangulick@gmail.com
   facebook: Arxnl
   github: pvangulick
   twitter: Arx_nl
   linkedin: peter-van-gulick
 #
 #  reddit: yourname
-   xing: yourname
+#  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
